@@ -1,0 +1,2 @@
+# general
+alias c='clear'
