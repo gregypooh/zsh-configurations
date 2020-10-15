@@ -15,5 +15,8 @@ fi
 ZSH_THEME="spaceship"
 
 # customization
-SPACESHIP_DIR_TRUNC=0 			# 0 means do not truncate the dir list
+SPACESHIP_DIR_TRUNC=0
 SPACESHIP_DIR_TRUNC_PREFIX="…/"
+SPACESHIP_DOCKER_SHOW=false
+SPACESHIP_NODE_SHOW=false
+SPACESHIP_PACKAGE_SHOW=false
